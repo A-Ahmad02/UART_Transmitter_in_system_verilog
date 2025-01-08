@@ -1,0 +1,11 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+en=x tx_start=x CTS=x data=xxxxxxxx, RTS=x, s_out=1
+en=0 tx_start=0 CTS=x data=xxxxxxxx, RTS=x, s_out=1
+en=1 tx_start=0 CTS=0 data=01101011, RTS=x, s_out=1
+en=0 tx_start=0 CTS=0 data=01101011, RTS=x, s_out=1
+en=0 tx_start=1 CTS=0 data=00000000, RTS=x, s_out=1
+en=0 tx_start=0 CTS=0 data=00000000, RTS=x, s_out=1
+en=0 tx_start=0 CTS=0 data=11111111, RTS=x, s_out=1
+en=0 tx_start=0 CTS=0 data=11111111, RTS=x, s_out=0
+en=0 tx_start=0 CTS=0 data=11111111, RTS=x, s_out=1
